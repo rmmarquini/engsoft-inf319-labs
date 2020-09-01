@@ -1,3 +1,9 @@
+<div id="header">
+    <img src="img/unicamp.png" width=75px align="left" />
+    <img src="img/ic.png" width=250px align="right" />
+</div>
+<br /><br /><br /><br />
+
 <h1 align="center"> INF319 - Projeto e Implementação Orientados a Objetos</h1>
 <p align="center"><em><a href="/" target="_blank">Prof. Luiz E. Buzato</a></em></p>
 <p align="center"><em><a href="/" target="_blank">Monitor Arthur V. de Lima Gomes</a></em></p>
@@ -11,8 +17,22 @@ Este repositório é destinado aos laboratórios da disciplina INF319 do curso d
 * Rafael Mardegan Marquini
 * Equipe 9
 
+## :hammer: Tecnologias e Ferramentas
+* [Java](https://www.oracle.com/java/)
+* [Maven](https://maven.apache.org/)
+* [JUnit](https://junit.org/junit5/)
+* [Jenkins](https://www.jenkins.io/)
+* [UML](https://www.uml.org/)
+* [Eclipse](https://www.eclipse.org/)
+* [ObjectAid](https://www.objectaid.com/)
+
 ## :computer: Laboratórios
 * [Lab1](https://github.com/rmmarquini/engsoft-inf319-labs/tree/master/lab1)
+A proposta deste laboratório foi aplicar o conceito de Associações em OOP, à partir de testes unitários implementados e fornecidos pelos professores.
+<br />
+Há um `README` em cada uma das implementações realizadas.
+<br />
+As entregas dos exercícios propostos foram disponibilizadas em meu repositório Jenkins privado no IC.
 
 ## :memo: Licença
 MIT license.
