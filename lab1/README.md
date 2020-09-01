@@ -6,3 +6,5 @@ Há um _README_ em cada uma das implementações realizadas.
 
 ## Entrega dos exercícios
 As entregas dos exercícios propostos foram disponibilizadas em meu repositório Jenkins privado no IC.
+
+![Builds](../img/lab1-dasha.png)
