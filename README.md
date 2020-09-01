@@ -28,12 +28,6 @@ Este repositório é destinado aos laboratórios da disciplina INF319 do curso d
 
 ## :computer: Laboratórios
 * [Lab1](https://github.com/rmmarquini/engsoft-inf319-labs/tree/master/lab1)
-<br />
-A proposta deste laboratório foi aplicar o conceito de Associações em OOP, à partir de testes unitários implementados e fornecidos pelos professores.
-<br />
-Há um `README` em cada uma das implementações realizadas.
-<br />
-As entregas dos exercícios propostos foram disponibilizadas em meu repositório Jenkins privado no IC.
 
 ## :memo: Licença
 MIT license.
