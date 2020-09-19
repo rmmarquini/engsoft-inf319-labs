@@ -28,6 +28,11 @@ Este repositório é destinado aos laboratórios da disciplina INF319 do curso d
 
 ## :computer: Laboratórios
 * [Lab1](https://github.com/rmmarquini/engsoft-inf319-labs/tree/master/lab1)
+* [Lab2](https://github.com/rmmarquini/engsoft-inf319-labs/tree/master/lab2)
+* [Lab3](https://github.com/rmmarquini/engsoft-inf319-labs/tree/master/lab3)
+
+## :computer: Avaliações
+* [Test1](https://github.com/rmmarquini/engsoft-inf319-labs/tree/master/test1)
 
 ## :memo: Licença
 MIT license.
