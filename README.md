@@ -17,7 +17,7 @@ Este repositório é destinado aos laboratórios da disciplina INF319 do curso d
 * Rafael Mardegan Marquini
 * Equipe 9
 
-## :hammer: Tecnologias e Ferramentas
+## :hammer: Conceitos, Ferramentas e Tecnologias
 * [Java](https://www.oracle.com/java/)
 * [Maven](https://maven.apache.org/)
 * [JUnit](https://junit.org/junit5/)
@@ -25,6 +25,8 @@ Este repositório é destinado aos laboratórios da disciplina INF319 do curso d
 * [UML](https://www.uml.org/)
 * [Eclipse](https://www.eclipse.org/)
 * [ObjectAid](https://www.objectaid.com/)
+* TDD
+* OOP
 
 ## :computer: Laboratórios
 * [Lab1](https://github.com/rmmarquini/engsoft-inf319-labs/tree/master/lab1)
